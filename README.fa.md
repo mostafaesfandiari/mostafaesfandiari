@@ -14,7 +14,7 @@
 [🇺🇸](./README.md) &nbsp;&nbsp;
 [🇮🇷](./README.fa.md) &nbsp;&nbsp;
 [🇷🇺](./README.ru.md) &nbsp;&nbsp;
-[🇸🇦](./README.ar.md) &nbsp;&nbsp;
+[🇦🇪](./README.ar.md) &nbsp;&nbsp;
 [🇮🇱](./README.he.md)
 
 <br>
@@ -929,9 +929,8 @@
 [🇺🇸](./README.md) &nbsp;&nbsp;
 [🇮🇷](./README.fa.md) &nbsp;&nbsp;
 [🇷🇺](./README.ru.md) &nbsp;&nbsp;
-[🇸🇦](./README.ar.md) &nbsp;&nbsp;
+[🇦🇪](./README.ar.md) &nbsp;&nbsp;
 [🇮🇱](./README.he.md)
-
 </div>
 
 </div>
