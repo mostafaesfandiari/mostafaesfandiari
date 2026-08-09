@@ -9,11 +9,11 @@
 
 <br>
 
-[🇺🇸 **EN**](./README.md) &nbsp;&nbsp;
-[🇮🇷 **FA**](./README.fa.md) &nbsp;&nbsp;
-[🇷🇺 **RU**](./README.ru.md) &nbsp;&nbsp;
-[🇸🇦 **AR**](./README.ar.md) &nbsp;&nbsp;
-[🇮🇱 **HE**](./README.he.md)
+[🇺🇸](./README.md) &nbsp;&nbsp;
+[🇮🇷](./README.fa.md) &nbsp;&nbsp;
+[🇷🇺](./README.ru.md) &nbsp;&nbsp;
+[🇦🇪](./README.ar.md) &nbsp;&nbsp;
+[🇮🇱](./README.he.md)
 
 <br>
 
@@ -906,10 +906,9 @@ Not merely using the future.
 
 <br>
 
-[🇺🇸 **EN**](./README.md) &nbsp;&nbsp;
-[🇮🇷 **FA**](./README.fa.md) &nbsp;&nbsp;
-[🇷🇺 **RU**](./README.ru.md) &nbsp;&nbsp;
-[🇸🇦 **AR**](./README.ar.md) &nbsp;&nbsp;
-[🇮🇱 **HE**](./README.he.md)
-
+[🇺🇸](./README.md) &nbsp;&nbsp;
+[🇮🇷](./README.fa.md) &nbsp;&nbsp;
+[🇷🇺](./README.ru.md) &nbsp;&nbsp;
+[🇦🇪](./README.ar.md) &nbsp;&nbsp;
+[🇮🇱](./README.he.md)
 </div>
