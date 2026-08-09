@@ -9,11 +9,11 @@
 
 <br>
 
-[**English**](./README.md) ·
-[فارسی](./README.fa.md) ·
-[Русский](./README.ru.md) ·
-[العربية](./README.ar.md) ·
-[עברית](./README.he.md)
+[🇺🇸 **EN**](./README.md) &nbsp;&nbsp;
+[🇮🇷 **FA**](./README.fa.md) &nbsp;&nbsp;
+[🇷🇺 **RU**](./README.ru.md) &nbsp;&nbsp;
+[🇸🇦 **AR**](./README.ar.md) &nbsp;&nbsp;
+[🇮🇱 **HE**](./README.he.md)
 
 <br>
 
@@ -70,7 +70,7 @@ My work and explorations are centered around:
 - **Emerging Interfaces** — exploring new forms of interaction beyond conventional interfaces
 - **Human-in-the-Loop AI** — combining computational intelligence with human judgment
 - **LLM-powered Systems** — architectures built around modern language intelligence
-- **AI-assisted Creation** — extending the distance between imagination and execution
+- **AI-assisted Creation** — expanding the distance between imagination and execution
 
 <div align="center">
 
@@ -906,10 +906,10 @@ Not merely using the future.
 
 <br>
 
-[**English**](./README.md) ·
-[فارسی](./README.fa.md) ·
-[Русский](./README.ru.md) ·
-[العربية](./README.ar.md) ·
-[עברית](./README.he.md)
+[🇺🇸 **EN**](./README.md) &nbsp;&nbsp;
+[🇮🇷 **FA**](./README.fa.md) &nbsp;&nbsp;
+[🇷🇺 **RU**](./README.ru.md) &nbsp;&nbsp;
+[🇸🇦 **AR**](./README.ar.md) &nbsp;&nbsp;
+[🇮🇱 **HE**](./README.he.md)
 
 </div>
